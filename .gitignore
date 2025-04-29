@@ -1,0 +1,26 @@
+# ROS 2 docs
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# C++
+bin/
+lib/
+
+# Editor files
+.vscode/
+*.user
+.project
+.cproject
+
+
+*~
+.#*
+
+msg/_*.py
+srv/_*.py
+
